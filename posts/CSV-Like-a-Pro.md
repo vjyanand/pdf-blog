@@ -10,6 +10,8 @@ twitter: '@youyuxi'
 
 Exporting PDF tables to CSV files can be a daunting task, especially if you are not familiar with the process. However, with the right knowledge and tools, you can streamline this process and convert your PDF tables to CSV like a pro. In this article, we will walk you through 10 essential steps that will help you successfully export PDF tables to CSV files, allowing you to efficiently extract and analyze data from your PDF documents. Whether you are a data analyst, researcher, or simply someone who frequently works with PDF tables, this guide is a must-read to master the art of exporting PDF tables to CSV effectively.
 
+---
+
 2. Understanding the importance of exporting PDF tables to CSV
 
    Exporting PDF tables to CSV format is an essential skill for anyone working with data analysis or research. CSV files are widely used because they are easy to read and can be easily imported into various software programs. By converting PDF tables to CSV, you unlock the potential to analyze and manipulate data in a more efficient and effective manner.
