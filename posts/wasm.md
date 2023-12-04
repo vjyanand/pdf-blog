@@ -28,15 +28,15 @@ WebAssembly (WASM), a portable binary instruction format, has emerged as a power
 
  The utilization of WASM for PDF table extraction offers several compelling benefits:
 
- Enhanced Privacy: WASM's sandboxing and secure enclave integration provide robust protection for sensitive data, minimizing privacy risks.
+ **Enhanced Privacy**: WASM's sandboxing and secure enclave integration provide robust protection for sensitive data, minimizing privacy risks.
 
- Offline Accessibility: Offline caching of WASM modules ensures seamless data extraction and analysis even without an internet connection.
+ **Offline Accessibility**: Offline caching of WASM modules ensures seamless data extraction and analysis even without an internet connection.
 
- ** Performance Optimization **: WASM's native code execution significantly improves extraction speed compared to traditional JavaScript methods.
+ **Performance Optimization**: WASM's native code execution significantly improves extraction speed compared to traditional JavaScript methods.
 
- ## Cross-Platform Compatibility: WASM's portability allows for consistent extraction capabilities across different browsers and operating systems.
+ **Cross-Platform Compatibility**: WASM's portability allows for consistent extraction capabilities across different browsers and operating systems.
 
- ## Reduced Network Dependency: Offline extraction and processing minimize reliance on network connectivity, reducing bandwidth consumption and improving overall efficiency.
+ **Reduced Network Dependency**: Offline extraction and processing minimize reliance on network connectivity, reducing bandwidth consumption and improving overall efficiency.
 
 ### Conclusion
 
