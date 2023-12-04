@@ -25,13 +25,6 @@ const { page, frontmatter } = useData()
           >
         </a>
         <div class="text-sm text-gray-500 dark:text-white leading-5">
-          <a
-            class="hover:text-gray-700 dark:hover:text-gray-200"
-            href="https://github.com/vuejs/blog"
-            target="_blank"
-            rel="noopener"
-            ><span class="hidden sm:inline">GitHub </span>Source</a
-          >
           <span class="mr-2 ml-2">·</span>
           <a
             class="hover:text-gray-700 dark:hover:text-gray-200"
