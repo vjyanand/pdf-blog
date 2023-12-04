@@ -15,7 +15,7 @@ export async function genFeed(config: SiteConfig) {
     image: 'https://vuejs.org/images/logo.png',
     favicon: `${baseUrl}/favicon.ico`,
     copyright:
-      'Copyright (c) 2021-present, Yuxi (Evan) You and blog contributors'
+      'Copyright (c) 2023-present, iAvian Technologies'
   })
 
   const posts = await createContentLoader('posts/*.md', {
