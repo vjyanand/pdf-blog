@@ -1,9 +1,9 @@
 ---
 title: Leveraging WebAssembly for Enhanced Privacy and Offline PDF Table Extraction
-date: 2023-12-03
+date: 2023-12-04
 author: Vijay
 gravatar: eca93da2c67aadafe35d477aa8f454b8
-twitter: '@youyuxi'
+twitter: '@vjyanand'
 ---
 
 ### Leveraging WebAssembly for Enhanced Privacy and Offline PDF Table Extraction
