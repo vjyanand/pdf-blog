@@ -16,7 +16,7 @@ const { page, frontmatter } = useData()
             class="inline-block mr-2"
             style="width: 36px; height: 31px"
             alt="logo"
-            src="/logo.svg"
+            src="https://pdf.iavian.net/assets/img/logo.svg"
           />
           <span
             v-if="!frontmatter.index"
