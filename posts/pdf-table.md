@@ -5,7 +5,9 @@ author: Vijay
 gravatar: eca93da2c67aadafe35d477aa8f454b8
 twitter: '@vjyanand'
 ---
+
 In a PDF (Portable Document Format) file, tables are typically encoded using a combination of text positioning and drawing operations. PDF is a file format developed by Adobe that is used to present documents in a manner independent of application software, hardware, and operating systems. It supports the inclusion of various elements, including text, images, and tables.
+
 ---
 
 Here's a simplified explanation of how tables are encoded in PDFs:

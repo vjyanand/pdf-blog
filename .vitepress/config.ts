@@ -5,9 +5,13 @@ export default defineConfig({
   title: 'PDF Extractor',
   description: 'The offical blog for pdfextractor project',
   cleanUrls: true,
-  base: 'https://blog.pdf.iavian.net/',
+  themeConfig: {
+    footer: {
+      message: 'Released under the MIT License.',
+      copyright: 'Copyright © 2019-present Evan You'
+    }
+  },
   head: [
-    ['basey', { href: 'https://blog.pdf.iavian.net' }],
     ['meta', { name: 'twitter:site', content: '@vuejs' }],
     ['meta', { name: 'twitter:card', content: 'summary' }],
     [
