@@ -5,8 +5,9 @@ export default defineConfig({
   title: 'PDF Extractor',
   description: 'The offical blog for pdfextractor project',
   cleanUrls: true,
+  base: 'https://blog.pdf.iavian.net/',
   head: [
-    ['base', { href: 'https://blog.pdf.iavian.net' }],
+    ['basey', { href: 'https://blog.pdf.iavian.net' }],
     ['meta', { name: 'twitter:site', content: '@vuejs' }],
     ['meta', { name: 'twitter:card', content: 'summary' }],
     [
