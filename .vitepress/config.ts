@@ -2,10 +2,11 @@ import { defineConfig } from 'vitepress'
 import { genFeed } from './genFeed.js'
 
 export default defineConfig({
-  title: 'The Vue Point',
-  description: 'The offical blog for the Vue.js project',
+  title: 'PDF Extractor',
+  description: 'The offical blog for pdfextractor project',
   cleanUrls: true,
   head: [
+    ['base', { href: 'https://blog.pdf.iavian.net' }],
     ['meta', { name: 'twitter:site', content: '@vuejs' }],
     ['meta', { name: 'twitter:card', content: 'summary' }],
     [
