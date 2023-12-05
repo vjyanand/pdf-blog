@@ -1,5 +1,5 @@
 ---
-title: Preserving Financial Security and Privacy: Why Bank Statements Should Remain Confidential
+title: "Preserving Financial Security and Privacy: Why Bank Statements Should Remain Confidential"
 date: 2023-12-05
 author: Vijay
 gravatar: eca93da2c67aadafe35d477aa8f454b8
