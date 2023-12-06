@@ -4,7 +4,7 @@ import { genFeed } from './genFeed.js'
 export default defineConfig({
   base:'/blog/',
   head: [
-    ['base', { href: 'https://blog.pdf.iavian.net/blog/'}],
+    ['base', { href: '/blog/'}],
     ['meta', { name: 'twitter:site', content: '@vuejs' }],
     ['meta', { name: 'twitter:card', content: 'summary' }],
     [
