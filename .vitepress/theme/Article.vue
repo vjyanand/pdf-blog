@@ -11,11 +11,11 @@ const route = useRoute()
 
 function findCurrentIndex() {
   return posts.findIndex((p) => {
-    const paragraph = route.path;
-    const regex = /\/posts\/.*/;
-    const found = paragraph.match(regex);
-    const matched_route = found?.[0];
-    return p.url === matched_route
+    // const paragraph = route.path;
+    // const regex = /\/posts\/.*/;
+    // const found = paragraph.match(regex);
+    // const matched_route = found?.[0];
+    return p.url === route.path
   })
 }
 
