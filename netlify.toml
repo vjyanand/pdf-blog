@@ -7,5 +7,5 @@
 
 [[redirects]]
   from = "/blog/*"
-  to = "/"
+  to = "/:splat"
   status = 200
