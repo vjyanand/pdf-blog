@@ -1,10 +1,17 @@
 import { defineConfig } from 'vitepress'
 import { genFeed } from './genFeed.js'
 
+
 export default defineConfig({
-  base:'/blog/',
+  themeConfig: {
+    footer: {
+      message: 'Released under the <a href="https://github.com/vuejs/vitepress/blob/main/LICENSE">MIT License</a>.',
+      copyright: 'Copyright © 2019-present <a href="https://github.com/yyx990803">Evan You</a>'
+    }
+  },
+  base: '/blog/',
   head: [
-    ['base', { href: '/blog/'}],
+    
     ['meta', { name: 'twitter:site', content: '@vuejs' }],
     ['meta', { name: 'twitter:card', content: 'summary' }],
     [
