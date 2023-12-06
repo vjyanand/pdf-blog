@@ -12,8 +12,7 @@ In a PDF (Portable Document Format) file, tables are typically encoded using a c
 
 Here's a simplified explanation of how tables are encoded in PDFs:
 
-Text Content:
-
+**Text Content:**
     The textual content of the table, such as numbers or text within cells, is represented as text strings in the PDF file.
     Each text string is associated with specific coordinates on the page, indicating its position within the table.
 Graphics Operations:
