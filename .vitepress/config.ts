@@ -2,16 +2,9 @@ import { defineConfig } from 'vitepress'
 import { genFeed } from './genFeed.js'
 
 export default defineConfig({
-  title: 'PDF Extractor',
-  description: 'The offical blog for pdfextractor project',
-  cleanUrls: true,
-  themeConfig: {
-    footer: {
-      message: 'Released under the MIT License.',
-      copyright: 'Copyright © 2019-present Evan You'
-    }
-  },
+  base:'/blog/',
   head: [
+    ['base', { name: 'k', content: '@vuejs' }],
     ['meta', { name: 'twitter:site', content: '@vuejs' }],
     ['meta', { name: 'twitter:card', content: 'summary' }],
     [
@@ -39,5 +32,8 @@ export default defineConfig({
       }
     ]
   ],
+  title: 'PDF Extractor',
+  description: 'The offical blog for pdfextractor project',
+  cleanUrls: true,
   buildEnd: genFeed
 })
