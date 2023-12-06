@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 import { genFeed } from './genFeed.js'
 
 export default defineConfig({
+  base:'/blog/',
   head: [
     ['base', { name: 'k', content: '@vuejs' }],
     ['meta', { name: 'twitter:site', content: '@vuejs' }],
