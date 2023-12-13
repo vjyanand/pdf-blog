@@ -6,8 +6,6 @@ gravatar: eca93da2c67aadafe35d477aa8f454b8
 twitter: '@vjyanand'
 ---
 
-### Leveraging WebAssembly for Enhanced Privacy and Offline PDF Table Extraction
-
 WebAssembly (WASM), a portable binary instruction format, has emerged as a powerful tool for enhancing privacy and enabling seamless offline experiences in web applications. Its unique capabilities offer distinct advantages for addressing these critical concerns, particularly in the context of PDF table extraction.
 
 ---
