@@ -21,7 +21,7 @@ const { page, frontmatter } = useData()
           <span
             v-if="!frontmatter.index"
             class="hidden md:inline dark:text-white"
-            >Pdf Extractor</span
+            >PDF Table Convert</span
           >
         </a>
         <div class="text-sm text-gray-500 dark:text-white leading-5">
@@ -37,7 +37,7 @@ const { page, frontmatter } = useData()
             href="https://pdf.iavian.net"
             target="_blank"
             rel="noopener"
-            >Pdf Extractor →</a
+            >PDF Table Convert →</a
           >
         </div>
       </nav>

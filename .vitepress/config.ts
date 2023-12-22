@@ -32,7 +32,7 @@ export default defineConfig({
       }
     ]
   ],
-  title: 'PDF Extractor',
+  title: 'PDF Table Convert',
   description: 'The offical blog for pdfextractor project',
   cleanUrls: true,
   buildEnd: genFeed

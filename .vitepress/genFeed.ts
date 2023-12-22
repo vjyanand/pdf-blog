@@ -7,12 +7,12 @@ const baseUrl = `https://blog.vuejs.org`
 
 export async function genFeed(config: SiteConfig) {
   const feed = new Feed({
-    title: 'PDF Extractor',
-    description: 'The official blog for the Vue.js project',
+    title: 'PDF Table Convert',
+    description: 'The official blog for the PDF Table Convert project',
     id: baseUrl,
     link: baseUrl,
     language: 'en',
-    image: 'https://vuejs.org/images/logo.png',
+    image: 'https://pdf.iavian.net/assets/img/logo.svg',
     favicon: `${baseUrl}/favicon.ico`,
     copyright:
       'Copyright (c) 2023-present, iAvian Technologies'
