@@ -16,7 +16,7 @@ const { page, frontmatter } = useData()
             class="inline-block mr-2"
             style="width: 36px; height: 31px"
             alt="logo"
-            src="https://pdf.iavian.net/assets/img/logo.svg"
+            src="https://pdftableconvert.com/assets/img/logo.svg"
           />
           <span
             v-if="!frontmatter.index"
@@ -34,7 +34,7 @@ const { page, frontmatter } = useData()
           <span class="mr-2 ml-2">·</span>
           <a
             class="hover:text-gray-700 dark:hover:text-gray-200"
-            href="https://pdf.iavian.net"
+            href="https://pdftableconvert.com"
             target="_blank"
             rel="noopener"
             >PDF Table Convert →</a

@@ -12,7 +12,7 @@ export async function genFeed(config: SiteConfig) {
     id: baseUrl,
     link: baseUrl,
     language: 'en',
-    image: 'https://pdf.iavian.net/assets/img/logo.svg',
+    image: 'https://pdftableconvert.com/assets/img/logo.svg',
     favicon: `${baseUrl}/favicon.ico`,
     copyright:
       'Copyright (c) 2023-present, iAvian Technologies'
