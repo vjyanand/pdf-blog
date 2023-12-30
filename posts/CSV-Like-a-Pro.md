@@ -2,8 +2,8 @@
 title: 10 Essential Steps for Exporting PDF Tables to CSV Like a Pro
 date: 2023-12-04
 author: Vijay
-gravatar: eca93da2c67aadafe35d477aa8f454b8
-twitter: '@youyuxi'
+gravatar: 7e491724a0d1b989ddc6948e87d71d7159182eabae739da287c29f12199a4d14
+twitter: '@vjyanand'
 ---
 
 ### Introduction
