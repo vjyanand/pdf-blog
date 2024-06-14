@@ -1,6 +1,6 @@
 {
   "name": "vue-blog",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": true,
   "type": "module",
   "scripts": {
@@ -9,13 +9,13 @@
     "serve": "vitepress serve"
   },
   "devDependencies": {
-    "@tailwindcss/typography": "^0.5.10",
-    "@types/markdown-it": "^13.0.7",
-    "@types/node": "^20.10.3",
+    "@tailwindcss/typography": "^0.5.13",
+    "@types/markdown-it": "^14.1.1",
+    "@types/node": "^20.14.2",
     "feed": "^4.2.2",
     "gray-matter": "^4.0.3",
-    "tailwindcss": "^3.3.6",
-    "vitepress": "1.0.0-rc.31",
-    "vue": "^3.3.10"
+    "tailwindcss": "^3.4.4",
+    "vitepress": "1.2.3",
+    "vue": "^3.4.27"
   }
 }
