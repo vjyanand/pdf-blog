@@ -33,9 +33,9 @@ export default defineConfig({
     ]
   ],
   transformPageData(pageData) {
-    const canonicalUrl = `https://dashboard.flowfuse.com/${pageData.relativePath}`
+    const canonicalUrl = `https://pdftableconvert.com/blog/${pageData.relativePath}`
       .replace(/index\.md$/, '')
-      .replace(/\.md$/, '.html')
+      .replace(/\.md$/, '')
 
     pageData.frontmatter.head ??= []
     pageData.frontmatter.head.push([
