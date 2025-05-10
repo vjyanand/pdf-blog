@@ -1,6 +1,6 @@
 ---
 title: "Convert PDF Tables to Other Formats Easily with a PDF Table Convertor"
-date: 2024-01-08
+date: 2024-01-09
 author: Vijay
 gravatar: 7e491724a0d1b989ddc6948e87d71d7159182eabae739da287c29f12199a4d14
 twitter: '@vjyanand'
