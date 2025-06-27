@@ -1,9 +1,9 @@
-# Table Representation in PDFs
-
-**Author:** Vijay  
-**Date:** December 5, 2023  
-**Twitter:** @vjyanand  
-**Gravatar:** 7e491724a0d1b989ddc6948e87d71d7159182eabae739da287c29f12199a4d14
+---
+title: "Table representation in PDFs"
+date: 2023-12-05
+author: Vijay
+gravatar: 7e491724a0d1b989ddc6948e87d71d7159182eabae739da287c29f12199a4d14
+twitter: '@vjyanand'
 
 ---
 
