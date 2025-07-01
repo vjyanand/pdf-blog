@@ -1,6 +1,6 @@
 ---
 title: "New Feature Release: Draw-to-Select Tables in PDF Conversion"
-date: 2025-05-10
+date: 2025-05-30
 author: Vijay
 gravatar: 7e491724a0d1b989ddc6948e87d71d7159182eabae739da287c29f12199a4d14
 twitter: '@vjyanand'

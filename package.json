@@ -11,7 +11,7 @@
   "devDependencies": {
     "@tailwindcss/typography": "^0.5.13",
     "@types/markdown-it": "^14.1.1",
-    "@types/node": "^22.15.17",
+    "@types/node": "^24.0.8",
     "feed": "^5.0.0",
     "gray-matter": "^4.0.3",
     "tailwindcss": "^3.4.4",

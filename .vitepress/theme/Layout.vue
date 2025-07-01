@@ -15,7 +15,7 @@ const { page, frontmatter } = useData()
           <img
             class="inline-block mr-2"
             style="width: 36px; height: 31px"
-            alt="logo"
+            alt="Blog"
             src="https://pdftableconvert.com/assets/img/logo.svg"
           />
           <span
